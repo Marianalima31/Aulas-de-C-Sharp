@@ -1,0 +1,7 @@
+C:\Users\Maria\OneDrive\Área de Trabalho\aulas-csharp\AprendendoStructs\AprendendoStructs\bin\Debug\AprendendoStructs.exe.config
+C:\Users\Maria\OneDrive\Área de Trabalho\aulas-csharp\AprendendoStructs\AprendendoStructs\bin\Debug\AprendendoStructs.exe
+C:\Users\Maria\OneDrive\Área de Trabalho\aulas-csharp\AprendendoStructs\AprendendoStructs\bin\Debug\AprendendoStructs.pdb
+C:\Users\Maria\OneDrive\Área de Trabalho\aulas-csharp\AprendendoStructs\AprendendoStructs\obj\Debug\AprendendoStructs.csprojAssemblyReference.cache
+C:\Users\Maria\OneDrive\Área de Trabalho\aulas-csharp\AprendendoStructs\AprendendoStructs\obj\Debug\AprendendoStructs.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Área de Trabalho\aulas-csharp\AprendendoStructs\AprendendoStructs\obj\Debug\AprendendoStructs.exe
+C:\Users\Maria\OneDrive\Área de Trabalho\aulas-csharp\AprendendoStructs\AprendendoStructs\obj\Debug\AprendendoStructs.pdb

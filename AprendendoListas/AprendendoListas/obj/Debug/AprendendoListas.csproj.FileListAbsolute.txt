@@ -1,0 +1,7 @@
+C:\Users\Maria\OneDrive\Área de Trabalho\aulas-csharp\AprendendoListas\AprendendoListas\bin\Debug\AprendendoListas.exe.config
+C:\Users\Maria\OneDrive\Área de Trabalho\aulas-csharp\AprendendoListas\AprendendoListas\bin\Debug\AprendendoListas.exe
+C:\Users\Maria\OneDrive\Área de Trabalho\aulas-csharp\AprendendoListas\AprendendoListas\bin\Debug\AprendendoListas.pdb
+C:\Users\Maria\OneDrive\Área de Trabalho\aulas-csharp\AprendendoListas\AprendendoListas\obj\Debug\AprendendoListas.csprojAssemblyReference.cache
+C:\Users\Maria\OneDrive\Área de Trabalho\aulas-csharp\AprendendoListas\AprendendoListas\obj\Debug\AprendendoListas.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Área de Trabalho\aulas-csharp\AprendendoListas\AprendendoListas\obj\Debug\AprendendoListas.exe
+C:\Users\Maria\OneDrive\Área de Trabalho\aulas-csharp\AprendendoListas\AprendendoListas\obj\Debug\AprendendoListas.pdb
