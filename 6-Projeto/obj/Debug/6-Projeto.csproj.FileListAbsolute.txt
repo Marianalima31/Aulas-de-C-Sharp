@@ -1,0 +1,6 @@
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\6-Projeto\bin\Debug\6-Projeto.exe.config
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\6-Projeto\bin\Debug\6-Projeto.exe
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\6-Projeto\bin\Debug\6-Projeto.pdb
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\6-Projeto\obj\Debug\6-Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\6-Projeto\obj\Debug\6-Projeto.exe
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\6-Projeto\obj\Debug\6-Projeto.pdb

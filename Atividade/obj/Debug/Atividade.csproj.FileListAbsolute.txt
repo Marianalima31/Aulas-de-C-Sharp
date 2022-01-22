@@ -1,0 +1,7 @@
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\Atividade\obj\Debug\Atividade.csprojAssemblyReference.cache
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\Atividade\obj\Debug\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\Atividade\bin\Debug\Atividade.exe.config
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\Atividade\bin\Debug\Atividade.exe
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\Atividade\bin\Debug\Atividade.pdb
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\Atividade\obj\Debug\Atividade.exe
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\Atividade\obj\Debug\Atividade.pdb

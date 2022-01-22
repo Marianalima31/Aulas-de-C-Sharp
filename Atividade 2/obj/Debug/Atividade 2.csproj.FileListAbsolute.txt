@@ -1,0 +1,6 @@
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\Atividade 2\bin\Debug\Atividade 2.exe.config
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\Atividade 2\bin\Debug\Atividade 2.exe
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\Atividade 2\bin\Debug\Atividade 2.pdb
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\Atividade 2\obj\Debug\Atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\Atividade 2\obj\Debug\Atividade 2.exe
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\Atividade 2\obj\Debug\Atividade 2.pdb

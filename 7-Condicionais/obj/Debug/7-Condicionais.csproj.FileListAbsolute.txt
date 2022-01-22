@@ -1,0 +1,6 @@
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.exe.config
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.exe
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.pdb
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.exe
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.pdb

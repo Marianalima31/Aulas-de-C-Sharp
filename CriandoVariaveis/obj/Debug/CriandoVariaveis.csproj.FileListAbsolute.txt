@@ -1,0 +1,6 @@
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\CriandoVariaveis\bin\Debug\CriandoVariaveis.exe.config
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\CriandoVariaveis\bin\Debug\CriandoVariaveis.exe
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\CriandoVariaveis\bin\Debug\CriandoVariaveis.pdb
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\CriandoVariaveis\obj\Debug\CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\CriandoVariaveis\obj\Debug\CriandoVariaveis.exe
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\CriandoVariaveis\obj\Debug\CriandoVariaveis.pdb

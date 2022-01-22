@@ -1,0 +1,6 @@
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\P12-CalculaInvestimentoLogoPrazo\bin\Debug\P12-CalculaInvestimentoLogoPrazo.exe.config
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\P12-CalculaInvestimentoLogoPrazo\bin\Debug\P12-CalculaInvestimentoLogoPrazo.exe
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\P12-CalculaInvestimentoLogoPrazo\bin\Debug\P12-CalculaInvestimentoLogoPrazo.pdb
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\P12-CalculaInvestimentoLogoPrazo\obj\Debug\P12-CalculaInvestimentoLogoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\P12-CalculaInvestimentoLogoPrazo\obj\Debug\P12-CalculaInvestimentoLogoPrazo.exe
+C:\Users\Maria\OneDrive\Área de Trabalho\AprendendoCSharp\P12-CalculaInvestimentoLogoPrazo\obj\Debug\P12-CalculaInvestimentoLogoPrazo.pdb
